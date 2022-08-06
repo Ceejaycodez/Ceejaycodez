@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ceejaycodez
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently improving my knowledge on backend web development 
-- 💞️ I’m looking to collaborate on anything web dev
+- 👀 I’m into Web development 
+- 🌱 I’m currently improving my knowledge on data structures and algorithms
+- 💞️ I’m looking to collaborate on anything involving Web Development.
 - 📫 How to reach me @geraldcjnwankwo@outlook.com
 
 <!---
