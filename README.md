@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ceejaycodez
+- 👋 Hi, I’m Gerald Nwankwo. 
 - 👀 I am a FullStack Web Devoloper.
 - 🌱 I’m currently improving my knowledge on data structures and algorithms, Tailwindcss.
 - 💞️ I’m also open to collaborations on projects.
