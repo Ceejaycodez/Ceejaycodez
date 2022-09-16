@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ceejaycodez
-- 👀 I’m into Web development 
-- 🌱 I’m currently improving my knowledge on data structures and algorithms
-- 💞️ I’m looking to collaborate on anything involving Web Development.
-- 📫 How to reach me @geraldcjnwankwo@outlook.com
+- 👀 I am a FullStack Web Devoloper.
+- 🌱 I’m currently improving my knowledge on data structures and algorithms, Tailwindcss.
+- 💞️ I’m also open to collaborations on projects.
+- 📫 You can mail me  @geraldcjnwankwo@outlook.com or geraldnwankwo@icloud.com 
 
 <!---
 Ceejaycodez/Ceejaycodez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
